@@ -1,0 +1,10 @@
+{
+  "en": {
+    "name": "English",
+    "flag": "/flags/en-GB.png"
+  },
+  "fr": {
+    "name": "Français",
+    "flag": "/flags/fr-FR.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "__endonym__": "Français",
+  "home": "Accueil",
+  "away": "Ailleurs",
+  "error": {
+    "404": "404 Introuvable",
+    "": "Une erreur est survenue"
+  }
+}

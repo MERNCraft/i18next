@@ -1,0 +1,32 @@
+{ "__NOTES__": "'flags' should contain the relative url for the image to show for a given language. All entries in 'translation' should have the same keys as 'flags'. 'translation.__endonym__' should give the native name for the given language. The key '__endonym__' is wrapped in underscores because it is a _diectic_ key. It does not provide a _translation_; its value changes depending on the language that is being used. The other entries in 'translation' should contain equivalent meanings in each of the supported languages.",
+  
+  "flags": {
+    "en": "/flags/en-GB.png",
+    "fr": "/flags/fr-FR.png"
+  },
+
+  "translation": {
+    "__endonym__": {
+      "en": "English",
+      "fr": "Français"
+    },
+    "home": {
+      "en": "Home",
+      "fr": "Accueil"
+    },
+    "away": {
+      "en": "Away",
+      "fr": "Ailleurs"
+    },
+    "error": {
+      "en": {
+        "404": "404 Not Found",
+        "": "Something went wrong"
+      },
+      "fr": {
+        "404": "404 Introuvable",
+        "": "Une erreur est survenue"
+      }
+    }
+  }
+}

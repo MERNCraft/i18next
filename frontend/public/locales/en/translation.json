@@ -1,0 +1,9 @@
+{
+  "__endonym__": "English",
+  "home": "Home",
+  "away": "Away",
+  "error": {
+    "404": "404 Not Found",
+    "": "Something went wrong"
+  }
+}
